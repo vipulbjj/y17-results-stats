@@ -1,0 +1,589 @@
+{
+  "title": "Y17 1st sem result distribution",
+  "dassa": 32,
+  "count": 800,
+  "average": 6.740368072156284,
+  "spi_sum": 5392.294457725027,
+  "distribution": {
+    "3.5to4": 27,
+    "2.5to3": 14,
+    "4.5to5": 35,
+    "3to3.5": 19,
+    "4to5.5": 99,
+    "5to5.5": 44,
+    "8.5to9": 63,
+    "0to1": 12,
+    "6to6.5": 77,
+    "1to2": 7,
+    "5.5to6": 60,
+    "8to8.5": 77,
+    "2to2.5": 6,
+    "7.5to8": 67,
+    "7to7.5": 79,
+    "9to9.5": 45,
+    "6.5to7": 87,
+    "9.5to10": 61
+  },
+  "courses": {
+    "ENG122A": {
+      "Course_Name": "INTRODUCTION TO LINGUISTICS",
+      "Course_No.": "ENG122A",
+      "Course_Credit": "11",
+      "grade": {
+        "F": 2,
+        "B": 53,
+        "A*": 6,
+        "E": 0,
+        "C": 9,
+        "D": 1,
+        "A": 44
+      }
+    },
+    "SOC171A": {
+      "Course_Name": "INTRODUCTORY SOCIOLOGY",
+      "Course_No.": "SOC171A",
+      "Course_Credit": "11",
+      "grade": {
+        "F": 5,
+        "B": 28,
+        "A*": 3,
+        "E": 0,
+        "C": 25,
+        "D": 21,
+        "A": 25
+      }
+    },
+    "MTH101A": {
+      "Course_Name": "MATHEMATICS I",
+      "Course_No.": "MTH101A",
+      "Course_Credit": "11",
+      "grade": {
+        "F": 39,
+        "B": 195,
+        "A*": 22,
+        "E": 14,
+        "C": 293,
+        "D": 166,
+        "A": 61
+      }
+    },
+    "PHI141A": {
+      "Course_Name": "INTRODUCTION TO PHILOSOPHY",
+      "Course_No.": "PHI141A",
+      "Course_Credit": "11",
+      "grade": {
+        "F": 0,
+        "B": 47,
+        "A*": 1,
+        "E": 0,
+        "C": 19,
+        "D": 6,
+        "A": 40
+      }
+    },
+    "PHY101A": {
+      "Course_Name": "PHYS S LABORATORY",
+      "Course_No.": "PHY101A",
+      "Course_Credit": "3",
+      "grade": {
+        "F": 0,
+        "B": 213,
+        "A*": 0,
+        "E": 0,
+        "C": 73,
+        "D": 7,
+        "A": 106
+      }
+    },
+    "ECO101A": {
+      "Course_Name": "INTRODUCTION TO ECONOMICS",
+      "Course_No.": "ECO101A",
+      "Course_Credit": "11",
+      "grade": {
+        "F": 0,
+        "B": 47,
+        "A*": 10,
+        "E": 0,
+        "C": 19,
+        "D": 6,
+        "A": 35
+      }
+    },
+    "PSY151A": {
+      "Course_Name": "INTRODUCTION TO PSYCHOLOGY",
+      "Course_No.": "PSY151A",
+      "Course_Credit": "11",
+      "grade": {
+        "F": 0,
+        "B": 42,
+        "A*": 8,
+        "E": 0,
+        "C": 29,
+        "D": 9,
+        "A": 27
+      }
+    },
+    "PE101A": {
+      "Course_Name": "MORNING EXERCISE",
+      "Course_No.": "PE101A",
+      "Course_Credit": "3",
+      "grade": {
+        "X": 7,
+        "F": 1,
+        "S": 782
+      }
+    },
+    "ENG112C": {
+      "Course_Name": "ENGLISH LANGUAGE AND COMMUNICATION SKILLS",
+      "Course_No.": "ENG112C",
+      "Course_Credit": "11",
+      "grade": {
+        "F": 5,
+        "B": 41,
+        "A*": 0,
+        "E": 0,
+        "C": 43,
+        "D": 10,
+        "A": 10
+      }
+    },
+    "PHY102A": {
+      "Course_Name": "PHYSICS-I",
+      "Course_No.": "PHY102A",
+      "Course_Credit": "11",
+      "grade": {
+        "F": 5,
+        "B": 137,
+        "A*": 6,
+        "E": 16,
+        "C": 84,
+        "D": 87,
+        "A": 63
+      }
+    },
+    "LIF101A": {
+      "Course_Name": "INTRODUCTION TO BIOLOGY",
+      "Course_No.": "LIF101A",
+      "Course_Credit": "6",
+      "grade": {
+        "F": 18,
+        "B": 124,
+        "A*": 2,
+        "E": 0,
+        "C": 123,
+        "D": 88,
+        "A": 44
+      }
+    },
+    "ESC101A": {
+      "Course_Name": "FUNDAMENTALS OF COMPUTING",
+      "Course_No.": "ESC101A",
+      "Course_Credit": "14",
+      "grade": {
+        "F": 11,
+        "B": 87,
+        "A*": 9,
+        "E": 15,
+        "C": 131,
+        "D": 86,
+        "A": 48
+      }
+    },
+    "TA101A": {
+      "Course_Name": "ENGINEERING GRAPHICS",
+      "Course_No.": "TA101A",
+      "Course_Credit": "9",
+      "grade": {
+        "F": 0,
+        "B": 191,
+        "A*": 29,
+        "E": 0,
+        "C": 79,
+        "D": 4,
+        "A": 96
+      }
+    },
+    "CHM101A": {
+      "Course_Name": "CHEMISTRY LABORATORY",
+      "Course_No.": "CHM101A",
+      "Course_Credit": "3",
+      "grade": {
+        "F": 1,
+        "B": 193,
+        "A*": 5,
+        "E": 0,
+        "C": 4,
+        "D": 4,
+        "A": 184
+      }
+    },
+    "PHY103A": {
+      "Course_Name": "PHYSICS-II",
+      "Course_No.": "PHY103A",
+      "Course_Credit": "11",
+      "grade": {
+        "F": 57,
+        "B": 78,
+        "A*": 0,
+        "E": 0,
+        "C": 111,
+        "D": 96,
+        "A": 44
+      }
+    },
+    "ART105A": {
+      "Course_Name": "INTRODUCTION TO THE ART OF VIDEO MAKING",
+      "Course_No.": "ART105A",
+      "Course_Credit": "11",
+      "grade": {
+        "F": 0,
+        "B": 57,
+        "A*": 3,
+        "E": 0,
+        "C": 22,
+        "D": 8,
+        "A": 24
+      }
+    }
+  },
+  "department": {
+    "CHEMICAL ENGG.": {
+      "spi_sum": 472.97829382357713,
+      "dassa": 3,
+      "count": 74,
+      "distribution": {
+        "3.5to4": 5,
+        "2.5to3": 2,
+        "4.5to5": 6,
+        "3to3.5": 1,
+        "4to5.5": 10,
+        "5to5.5": 2,
+        "8.5to9": 6,
+        "0to1": 0,
+        "6to6.5": 9,
+        "1to2": 2,
+        "5.5to6": 8,
+        "8to8.5": 6,
+        "2to2.5": 0,
+        "7.5to8": 8,
+        "7to7.5": 4,
+        "9to9.5": 2,
+        "6.5to7": 7,
+        "9.5to10": 4
+      },
+      "average": 6.391598565183474
+    },
+    "COMPUTER SCIENCE & ENGG.": {
+      "spi_sum": 629.72,
+      "dassa": 16,
+      "count": 80,
+      "distribution": {
+        "3.5to4": 0,
+        "2.5to3": 0,
+        "4.5to5": 2,
+        "3to3.5": 0,
+        "4to5.5": 6,
+        "5to5.5": 3,
+        "8.5to9": 3,
+        "0to1": 1,
+        "6to6.5": 6,
+        "1to2": 1,
+        "5.5to6": 2,
+        "8to8.5": 5,
+        "2to2.5": 0,
+        "7.5to8": 4,
+        "7to7.5": 7,
+        "9to9.5": 15,
+        "6.5to7": 10,
+        "9.5to10": 20
+      },
+      "average": 7.8715
+    },
+    "ELECTRICAL ENGG.": {
+      "spi_sum": 945.9999999999999,
+      "dassa": 7,
+      "count": 125,
+      "distribution": {
+        "3.5to4": 1,
+        "2.5to3": 0,
+        "4.5to5": 3,
+        "3to3.5": 1,
+        "4to5.5": 7,
+        "5to5.5": 2,
+        "8.5to9": 16,
+        "0to1": 3,
+        "6to6.5": 14,
+        "1to2": 0,
+        "5.5to6": 5,
+        "8to8.5": 14,
+        "2to2.5": 1,
+        "7.5to8": 11,
+        "7to7.5": 12,
+        "9to9.5": 11,
+        "6.5to7": 8,
+        "9.5to10": 21
+      },
+      "average": 7.567999999999999
+    },
+    "PHYSICS": {
+      "spi_sum": 186.98039215686276,
+      "dassa": 2,
+      "count": 29,
+      "distribution": {
+        "3.5to4": 2,
+        "2.5to3": 1,
+        "4.5to5": 1,
+        "3to3.5": 0,
+        "4to5.5": 3,
+        "5to5.5": 2,
+        "8.5to9": 5,
+        "0to1": 2,
+        "6to6.5": 2,
+        "1to2": 0,
+        "5.5to6": 1,
+        "8to8.5": 2,
+        "2to2.5": 0,
+        "7.5to8": 0,
+        "7to7.5": 2,
+        "9to9.5": 1,
+        "6.5to7": 6,
+        "9.5to10": 2
+      },
+      "average": 6.447599729546992
+    },
+    "CIVIL ENGG.": {
+      "spi_sum": 619.406153846154,
+      "dassa": 0,
+      "count": 101,
+      "distribution": {
+        "3.5to4": 5,
+        "2.5to3": 1,
+        "4.5to5": 8,
+        "3to3.5": 4,
+        "4to5.5": 21,
+        "5to5.5": 9,
+        "8.5to9": 4,
+        "0to1": 0,
+        "6to6.5": 9,
+        "1to2": 1,
+        "5.5to6": 13,
+        "8to8.5": 6,
+        "2to2.5": 0,
+        "7.5to8": 7,
+        "7to7.5": 11,
+        "9to9.5": 3,
+        "6.5to7": 15,
+        "9.5to10": 1
+      },
+      "average": 6.132734196496574
+    },
+    "BIOL.SCI. AND BIO.ENGG.": {
+      "spi_sum": 223.56862745098042,
+      "dassa": 0,
+      "count": 36,
+      "distribution": {
+        "3.5to4": 0,
+        "2.5to3": 2,
+        "4.5to5": 2,
+        "3to3.5": 2,
+        "4to5.5": 7,
+        "5to5.5": 5,
+        "8.5to9": 2,
+        "0to1": 1,
+        "6to6.5": 7,
+        "1to2": 0,
+        "5.5to6": 1,
+        "8to8.5": 6,
+        "2to2.5": 0,
+        "7.5to8": 3,
+        "7to7.5": 1,
+        "9to9.5": 1,
+        "6.5to7": 3,
+        "9.5to10": 0
+      },
+      "average": 6.210239651416122
+    },
+    "AEROSPACE ENGG.": {
+      "spi_sum": 357.2156862745098,
+      "dassa": 2,
+      "count": 50,
+      "distribution": {
+        "3.5to4": 0,
+        "2.5to3": 0,
+        "4.5to5": 1,
+        "3to3.5": 0,
+        "4to5.5": 5,
+        "5to5.5": 4,
+        "8.5to9": 6,
+        "0to1": 0,
+        "6to6.5": 5,
+        "1to2": 0,
+        "5.5to6": 6,
+        "8to8.5": 3,
+        "2to2.5": 0,
+        "7.5to8": 6,
+        "7to7.5": 7,
+        "9to9.5": 0,
+        "6.5to7": 9,
+        "9.5to10": 3
+      },
+      "average": 7.144313725490195
+    },
+    "ECONOMICS": {
+      "spi_sum": 213.19509803921565,
+      "dassa": 0,
+      "count": 35,
+      "distribution": {
+        "3.5to4": 1,
+        "2.5to3": 1,
+        "4.5to5": 2,
+        "3to3.5": 2,
+        "4to5.5": 7,
+        "5to5.5": 2,
+        "8.5to9": 2,
+        "0to1": 0,
+        "6to6.5": 2,
+        "1to2": 0,
+        "5.5to6": 7,
+        "8to8.5": 3,
+        "2to2.5": 0,
+        "7.5to8": 5,
+        "7to7.5": 1,
+        "9to9.5": 0,
+        "6.5to7": 4,
+        "9.5to10": 0
+      },
+      "average": 6.091288515406162
+    },
+    "MECHANICAL ENGINEERING": {
+      "spi_sum": 700.4313725490194,
+      "dassa": 1,
+      "count": 96,
+      "distribution": {
+        "3.5to4": 0,
+        "2.5to3": 0,
+        "4.5to5": 3,
+        "3to3.5": 2,
+        "4to5.5": 8,
+        "5to5.5": 5,
+        "8.5to9": 11,
+        "0to1": 1,
+        "6to6.5": 7,
+        "1to2": 0,
+        "5.5to6": 6,
+        "8to8.5": 16,
+        "2to2.5": 0,
+        "7.5to8": 13,
+        "7to7.5": 16,
+        "9to9.5": 4,
+        "6.5to7": 8,
+        "9.5to10": 4
+      },
+      "average": 7.2961601307189525
+    },
+    "EARTH SCIENCES": {
+      "spi_sum": 162.62290598290602,
+      "dassa": 0,
+      "count": 31,
+      "distribution": {
+        "3.5to4": 2,
+        "2.5to3": 5,
+        "4.5to5": 4,
+        "3to3.5": 1,
+        "4to5.5": 7,
+        "5to5.5": 2,
+        "8.5to9": 0,
+        "0to1": 1,
+        "6to6.5": 5,
+        "1to2": 0,
+        "5.5to6": 3,
+        "8to8.5": 1,
+        "2to2.5": 0,
+        "7.5to8": 0,
+        "7to7.5": 2,
+        "9to9.5": 2,
+        "6.5to7": 2,
+        "9.5to10": 0
+      },
+      "average": 5.245900192996968
+    },
+    "MATERIALS SCIENCE & ENGG.": {
+      "spi_sum": 327.1076923076925,
+      "dassa": 0,
+      "count": 59,
+      "distribution": {
+        "3.5to4": 4,
+        "2.5to3": 2,
+        "4.5to5": 1,
+        "3to3.5": 3,
+        "4to5.5": 12,
+        "5to5.5": 6,
+        "8.5to9": 4,
+        "0to1": 3,
+        "6to6.5": 4,
+        "1to2": 2,
+        "5.5to6": 3,
+        "8to8.5": 6,
+        "2to2.5": 2,
+        "7.5to8": 5,
+        "7to7.5": 5,
+        "9to9.5": 1,
+        "6.5to7": 2,
+        "9.5to10": 1
+      },
+      "average": 5.544198174706652
+    },
+    "MATHEMATICS": {
+      "spi_sum": 336.48000000000013,
+      "dassa": 1,
+      "count": 49,
+      "distribution": {
+        "3.5to4": 3,
+        "2.5to3": 0,
+        "4.5to5": 0,
+        "3to3.5": 1,
+        "4to5.5": 2,
+        "5to5.5": 1,
+        "8.5to9": 4,
+        "0to1": 0,
+        "6to6.5": 4,
+        "1to2": 0,
+        "5.5to6": 1,
+        "8to8.5": 6,
+        "2to2.5": 3,
+        "7.5to8": 3,
+        "7to7.5": 5,
+        "9to9.5": 4,
+        "6.5to7": 10,
+        "9.5to10": 3
+      },
+      "average": 6.8669387755102065
+    },
+    "CHEMISTRY": {
+      "spi_sum": 216.58823529411757,
+      "dassa": 0,
+      "count": 35,
+      "distribution": {
+        "3.5to4": 4,
+        "2.5to3": 0,
+        "4.5to5": 2,
+        "3to3.5": 2,
+        "4to5.5": 4,
+        "5to5.5": 1,
+        "8.5to9": 0,
+        "0to1": 0,
+        "6to6.5": 3,
+        "1to2": 1,
+        "5.5to6": 4,
+        "8to8.5": 3,
+        "2to2.5": 0,
+        "7.5to8": 2,
+        "7to7.5": 6,
+        "9to9.5": 1,
+        "6.5to7": 3,
+        "9.5to10": 2
+      },
+      "average": 6.188235294117645
+    }
+  }
+}
